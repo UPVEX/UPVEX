@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 🌱 I’m currently learning django<br><br>💬 Ask me about python<br><br>⚡ Fun fact about me is I’m always sleepy :)
 
@@ -18,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=UPVEX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UPVEX&limit=5&theme=dark&combine_all_yearly_contributions=true)
