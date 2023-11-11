@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi I’m Nima✌<br><br>🌱 I’m currently learning django<br><br>💬 Ask me about python<br><br>⚡ Fun fact about me is I’m always sleepy :)
+ Hi I’m Nima 🐱‍👤<br><br>🌱 I’m currently learning django<br><br>💬 Ask me about python<br><br>⚡ Fun fact about me is I’m always sleepy :)
 
 
 ## 🌐 Socials:
