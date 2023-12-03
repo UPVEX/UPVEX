@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi I’m Nima 🐱‍👤<br><br>A Back_End Web developer 💻<br><br>🌱 I’m currently learning django<br><br>💬 Ask me about python and Web Development<br><br>⚡ Fun fact about me is I’m always sleapy -_-
+ Hi I’m Nima. 🐱‍👤<br><br>A Back_End Web developer. 💻<br><br>🌱 I’m currently learning django.<br><br>💬 Ask me about python and Web Development.<br><br>⚡ Fun fact about me is I’m always sleapy -_-
 
 
  
