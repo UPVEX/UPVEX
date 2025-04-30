@@ -1,5 +1,24 @@
 # 💫 About Me:
-🪼 Hi I’m Nima.<br><br>💻 A Back_End developer.<br><br>🌱 I’m currently learning Django.<br><br>💬 Ask me about Python and Web Development.<br><br>⚡ Fun fact about me is I’m always sleepy (¬‿¬)
+## 👋 Hey there, I'm Nima!
+
+🚀 A passionate **Back-End Developer** who turns coffee into code (and bugs into features).  
+🐍 Skilled in **Python**, playing with APIs, and automating the boring stuff.  
+🔧 Currently deep diving into **Django**, **REST APIs**, and backend architecture.
+
+🧠 I love building tools that make life easier — especially if it involves clever logic and clean code.  
+📚 Always learning something new — from design patterns to DevOps basics.  
+🎯 On a mission to level up and become a mid-level backend beast 💪
+
+💬 Ask me about:  
+- Python 🐍  
+- Django & Django REST Framework  
+- Backend logic & problem-solving  
+- Git & version control flow  
+
+⚡ Fun fact: I debug in my dreams and still wake up tired 😴
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 
 
