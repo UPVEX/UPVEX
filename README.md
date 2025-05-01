@@ -1,4 +1,6 @@
-## 👋 Hey there, I'm Nima!
+# 💫 About Me:
+
+###👋 Hey there, I'm Nima!
 
 🚀 A passionate **Back-End Developer** who turns coffee into code (and bugs into features).  
 🐍 Skilled in **Python**, playing with APIs, and automating the boring stuff.  
@@ -8,7 +10,7 @@
 📚 Always learning something new — from design patterns to DevOps basics.  
 🎯 On a mission to level up and become a mid-level backend beast 💪
 
-💬 Ask me about:  
+###💬 Ask me about:  
 - Python 🐍  
 - Django & Django REST Framework  
 - Backend logic & problem-solving  
