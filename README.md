@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## 👋 Hey there, I'm Nima!
+### 👋 Hey there, I'm Nima!
 
 🚀 A passionate **Back-End Developer** who turns coffee into code (and bugs into features).  
 🐍 Skilled in **Python**, playing with APIs, and automating the boring stuff.  
