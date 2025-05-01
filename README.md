@@ -10,7 +10,7 @@
 📚 Always learning something new — from design patterns to DevOps basics.  
 🎯 On a mission to level up and become a mid-level backend beast 💪
 
-## 💬 Ask me about:  
+### 💬 Ask me about:  
 - Python 🐍  
 - Django & Django REST Framework  
 - Backend logic & problem-solving  
