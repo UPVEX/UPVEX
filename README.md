@@ -13,7 +13,7 @@
 ### 💬 Ask me about:  
 - Python 🐍  
 - Django & Django REST Framework  
-- Backend logic & problem-solving  
+- Backend logic & Problem-Solving  
 - Git & version control flow  
 
 ⚡ Fun fact: I debug in my dreams and still wake up tired 😴
